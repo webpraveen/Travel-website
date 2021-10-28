@@ -1,2 +1,2 @@
 # Travel-website
-travel website with submit form only
+Travel website with submit form only
